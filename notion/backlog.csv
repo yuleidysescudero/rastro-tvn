@@ -1,0 +1,21 @@
+Tarea,Responsable,Estado,Inicio,Fin,Etapa,Evidencia
+Leer el reto y mapear requisitos de admisión,Yuls (dev),Hecho,2026-10-06,2026-10-06,Inicio,notion/01_inicio_del_reto.md
+Generar 5 ideas y elegir RASTRO con matriz de decisión,Equipo,Hecho,2026-10-06,2026-10-07,Inicio,RASTRO · Idea final hackIAthon TVN.md
+Extraer snapshot: TVN RSS + respaldo Google News + Banco Mundial + USGS,Yuls (dev),Hecho,2026-10-07,2026-10-07,Datos,data/processed/manifest.json
+Validación y reporte de calidad (etapa 1),Yuls (dev),Hecho,2026-10-07,2026-10-07,Construcción,rastro/carga.py · T01
+Clasificación semántica y agrupación de eventos con embeddings,Yuls (dev),Hecho,2026-10-07,2026-10-07,Construcción,rastro/organizar.py · T02
+Procedencias independientes y recirculación,Yuls (dev),Hecho,2026-10-07,2026-10-07,Construcción,T02 · T03
+Puntaje R·I·U·N·E y estado de evidencia,Yuls (dev),Hecho,2026-10-07,2026-10-07,Construcción,rastro/priorizar.py · T08
+Paquete editorial con citas y verificador determinista,Yuls (dev),Hecho,2026-10-07,2026-10-07,Construcción,rastro/redaccion.py · T09
+Escudo anti-inyección y revisión de ataques al agente,Equipo ciberseguridad,Hecho,2026-10-07,2026-10-07,Seguridad,rastro/escudo.py · T07
+Benchmark de 60 consultas (40 desarrollo / 20 reservadas),Equipo,Hecho,2026-10-07,2026-10-07,Pruebas,data/benchmark/benchmark.jsonl
+Corregir abstención 2/7 → 6/7 (prueba fallida D-09),Yuls (dev),Hecho,2026-10-07,2026-10-07,Pruebas,D-09
+App web Next.js con login por rol y despliegue en Vercel,Yuls (dev),Hecho,2026-10-07,2026-10-07,Construcción,https://rastro-tvn.vercel.app
+Base de datos Supabase de solo inserción (revisiones y bitácora),Yuls (dev),En curso,2026-10-07,2026-10-08,Construcción,supabase/esquema.sql
+Motor de IA en la nube (Hugging Face Spaces),Yuls (dev),En curso,2026-10-07,2026-10-08,Construcción,api/main.py · Dockerfile
+Etiquetado humano: 150 temas · 40 pares · top 5 del editor,Equipo,Pendiente,2026-10-08,2026-10-08,Pruebas,/etiquetar
+Métricas IA vs baseline con etiquetas humanas,Yuls (dev),Pendiente,2026-10-08,2026-10-08,Pruebas,scripts/evaluar.py
+Revisar 5+ fichas con persona responsable (incluye una insuficiente),Equipo,Pendiente,2026-10-08,2026-10-08,Revisión,/revision
+Pruebas de ataque al agente en la web (inyección y perfilamiento),Equipo ciberseguridad,Pendiente,2026-10-08,2026-10-08,Seguridad,/companero
+Completar Notion y ensayar pitch de 10 minutos,Equipo,Pendiente,2026-10-08,2026-10-08,Cierre,08_presentacion_al_jurado
+Enviar entrega a hackiathon@viamatica.com,Yuls (dev),Pendiente,2026-10-08,2026-10-08,Cierre,correo

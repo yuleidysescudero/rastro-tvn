@@ -27,6 +27,7 @@ No incluye: verdadero/falso, publicación automática, audiencia o rating, perfi
 - Las 4 preguntas dinámicas del jurado se responden en pantalla.
 
 ## Accesos
-- Demo: _(enlace del despliegue)_
-- Repositorio: _(enlace de GitHub con acceso al jurado)_
+- Demo web: https://rastro-tvn.vercel.app (entrar con el rol «Jurado»)
+- Repositorio (público): https://github.com/yuleidysescudero/rastro-tvn
+- Demo offline (respaldo T10): `streamlit run app.py` en el repositorio
 - Video de respaldo: _(enlace)_
