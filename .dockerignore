@@ -1,0 +1,9 @@
+.venv
+web
+data/cache
+data/raw
+.git
+**/__pycache__
+.pytest_cache
+.env
+notion

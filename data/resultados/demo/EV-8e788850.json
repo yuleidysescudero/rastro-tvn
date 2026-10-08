@@ -1,0 +1,224 @@
+{
+ "meta": {
+  "motor": "plantilla",
+  "motivo": "sin credencial de API (modo offline)",
+  "latencia_total_s": 0.0
+ },
+ "evidencia": {
+  "GN-9c9d064dec": {
+   "titulo": "PANAMA: Exportaciones de banano superan los $17 millones en junio",
+   "medio": "elproductor.com",
+   "fecha": "07/10/2026 08:54",
+   "tipo_fecha": "publicación",
+   "procedencia": "P1",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRDhzMzRTRmNrX0taaVctQ25QV0NKT2dMRndTaEtkUHQ1ZS1SMUxDZ1djUVNQMXNjZEF0QV8xaUxQcWRNRTV5M1d2TTNXZEYySlBOU2tWeXREWnFuNFIzejVoRzhTWVl3ZDRnbVZOYTczQ1Z2eVI4UjVJbjJPX3FVVlpsR2hUa00yVFo2ZVBZZUxEb2o2bTFGN2NHUWtTczdRcWc?oc=5",
+   "alcance": "basado únicamente en titular/metadatos"
+  },
+  "EV-8e788850": {
+   "n_titulares": 1,
+   "n_procedencias": 1,
+   "estado_evidencia": "parcial",
+   "tema": "Economía",
+   "recirculacion": "no detectada"
+  },
+  "WB:NE.EXP.GNFS.ZS:PAN:2024": {
+   "indicador": "Exportaciones de bienes y servicios (% del PIB)",
+   "pais": "Panamá",
+   "anio": 2024,
+   "valor": 44.36,
+   "unidad": "% del PIB",
+   "fuente": "Banco Mundial",
+   "url": "https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS?locations=PA"
+  }
+ },
+ "sospechosas": [],
+ "abstencion": false,
+ "motivo_abstencion": "",
+ "enfoque_interes_publico": "Qué se sabe y qué falta confirmar sobre un tema de economía que afecta a Panamá.",
+ "preguntas_investigacion": [
+  "¿Qué fuente primaria u oficial confirma lo reportado en «PANAMA: Exportaciones de banano superan los $17 millones en junio»?",
+  "¿Desde cuándo ocurre, a quién afecta y en qué lugar exactamente?",
+  "¿Existe una cifra oficial con período y metodología que respalde o contradiga lo publicado?"
+ ],
+ "verificaciones_pendientes": [
+  "Confirmar con fuente primaria: PANAMA: Exportaciones de banano superan los $17 millones en junio"
+ ],
+ "rechazadas": [],
+ "titulo_propuesto": [
+  {
+   "texto": "PANAMA: Exportaciones de banano superan los $17 millones en junio",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-9c9d064dec",
+     "campo": "titulo"
+    }
+   ]
+  }
+ ],
+ "brief": [
+  {
+   "texto": "Según elproductor.com (07/10/2026 08:54), «PANAMA: Exportaciones de banano superan los $17 millones en junio».",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-9c9d064dec",
+     "campo": "titulo"
+    },
+    {
+     "id": "GN-9c9d064dec",
+     "campo": "medio"
+    },
+    {
+     "id": "GN-9c9d064dec",
+     "campo": "fecha"
+    }
+   ]
+  },
+  {
+   "texto": "Hasta el corte, el tema reúne 1 titulares de 1 procedencia(s) independiente(s); la repetición no equivale a confirmación.",
+   "tipo": "hecho",
+   "citas": [
+    {
+     "id": "EV-8e788850",
+     "campo": "n_titulares"
+    },
+    {
+     "id": "EV-8e788850",
+     "campo": "n_procedencias"
+    }
+   ]
+  },
+  {
+   "texto": "Como contexto, el Banco Mundial registra para Panamá exportaciones de bienes y servicios (% del pib) de 44.36 (% del PIB) en 2024; es un dato anual, no una medición de hoy.",
+   "tipo": "hecho",
+   "citas": [
+    {
+     "id": "WB:NE.EXP.GNFS.ZS:PAN:2024",
+     "campo": "valor"
+    },
+    {
+     "id": "WB:NE.EXP.GNFS.ZS:PAN:2024",
+     "campo": "anio"
+    }
+   ]
+  },
+  {
+   "texto": "Falta confirmar los detalles con una fuente primaria antes de afirmarlos.",
+   "tipo": "hipotesis",
+   "citas": []
+  }
+ ],
+ "guion": [
+  {
+   "texto": "Esto es lo que se sabe hasta ahora sobre un tema de economía que sigue la mesa de TVN.",
+   "tipo": "inferencia",
+   "citas": []
+  },
+  {
+   "texto": "Según elproductor.com, pANAMA: Exportaciones de banano superan los $17 millones en junio.",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-9c9d064dec",
+     "campo": "titulo"
+    },
+    {
+     "id": "GN-9c9d064dec",
+     "campo": "medio"
+    }
+   ]
+  },
+  {
+   "texto": "Por ahora, el tema suma 1 titulares de 1 procedencia(s) independiente(s); que varios medios lo repitan no significa que esté confirmado.",
+   "tipo": "hecho",
+   "citas": [
+    {
+     "id": "EV-8e788850",
+     "campo": "n_titulares"
+    },
+    {
+     "id": "EV-8e788850",
+     "campo": "n_procedencias"
+    }
+   ]
+  },
+  {
+   "texto": "Para poner el tema en contexto: en 2024, el Banco Mundial registró para Panamá exportaciones de bienes y servicios (% del pib) de 44.36; es un dato anual, no una cifra de esta semana.",
+   "tipo": "hecho",
+   "citas": [
+    {
+     "id": "WB:NE.EXP.GNFS.ZS:PAN:2024",
+     "campo": "valor"
+    },
+    {
+     "id": "WB:NE.EXP.GNFS.ZS:PAN:2024",
+     "campo": "anio"
+    }
+   ]
+  },
+  {
+   "texto": "Lo que falta confirmar es qué dice la fuente oficial, desde cuándo ocurre y a quién afecta exactamente.",
+   "tipo": "hipotesis",
+   "citas": []
+  },
+  {
+   "texto": "En TVN confirmaremos los datos con las fuentes oficiales antes de darlos por hechos, y ampliaremos la información.",
+   "tipo": "inferencia",
+   "citas": []
+  }
+ ],
+ "copy": [
+  {
+   "texto": "Según elproductor.com: PANAMA: Exportaciones de banano superan los $17 millones en junio.",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-9c9d064dec",
+     "campo": "titulo"
+    },
+    {
+     "id": "GN-9c9d064dec",
+     "campo": "medio"
+    }
+   ]
+  },
+  {
+   "texto": "Hasta ahora, 1 titulares provienen de 1 fuente(s) real(es) distinta(s), así que todavía no lo damos por confirmado.",
+   "tipo": "hecho",
+   "citas": [
+    {
+     "id": "EV-8e788850",
+     "campo": "n_titulares"
+    },
+    {
+     "id": "EV-8e788850",
+     "campo": "n_procedencias"
+    }
+   ]
+  },
+  {
+   "texto": "En TVN seguimos verificando con fuentes oficiales y te contaremos qué se confirma y qué no.",
+   "tipo": "inferencia",
+   "citas": []
+  },
+  {
+   "texto": "Antes de compartir, revisa la fuente original y la fecha de publicación.",
+   "tipo": "inferencia",
+   "citas": []
+  },
+  {
+   "texto": "Si tienes información verificable sobre este tema, escríbenos.",
+   "tipo": "inferencia",
+   "citas": []
+  }
+ ],
+ "metricas": {
+  "palabras_brief": 75,
+  "palabras_copy": 66,
+  "segundos_guion": 49,
+  "afirmaciones_factuales": 9,
+  "con_cita": 9,
+  "rechazadas_por_verificador": 0
+ }
+}

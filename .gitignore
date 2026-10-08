@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.freeze.txt
+data/cache/
+.pytest_cache/
+.streamlit/secrets.toml
+# Respuestas crudas de RSS: pueden contener descripciones con derechos de los medios (D-11).
+# Se entregan la receta (scripts/extraer_datos.py) y los metadatos procesados, no el contenido.
+data/raw/tvn/
+data/raw/respaldo/
+.vercel
+*.log
+web/node_modules/
+web/.next/

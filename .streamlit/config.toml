@@ -1,0 +1,13 @@
+[theme]
+# Azul neutro para acciones: el rojo, el ámbar y el verde quedan reservados al semáforo de evidencia.
+base = "light"
+primaryColor = "#1f3a5f"
+textColor = "#1d2733"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f6f9"
+font = "sans serif"
+
+[server]
+headless = true
+# Sin vigilante de archivos: el de Streamlit falla al recorrer módulos de transformers.
+fileWatcherType = "none"

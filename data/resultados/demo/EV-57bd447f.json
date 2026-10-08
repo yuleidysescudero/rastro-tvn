@@ -1,0 +1,303 @@
+{
+ "meta": {
+  "motor": "plantilla",
+  "motivo": "sin credencial de API (modo offline)",
+  "latencia_total_s": 0.0
+ },
+ "evidencia": {
+  "GN-08b5a41c89": {
+   "titulo": "Clima en Panamá hoy: dónde lloverá este martes 6 de octubre",
+   "medio": "telemetro.com",
+   "fecha": "06/10/2026 07:28",
+   "tipo_fecha": "publicación",
+   "procedencia": "P2",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0swV2ZGbk1pdVZKMV85Q0NZS1JXb1BDTDJaMmlEQXZGaVVka0xld3hVci11ZElVRkhac3BCcUMtM184eHdtcFV2bEpsMmsxLVJLYVF1bFROWmYxY0F5dnIwTHRhd25kNTI2TzVtQjBTT3hla2tQZi1ubGN5b3dpQ2lzQ05NTDFVTUQyeEFMOWhCVXFCNDVINnRtTzh1V1HSAaQBQVVfeXFMTnI1Nkc5WkxGbFo2RUtZc1dvSEc4czNId2hLaFNaeTVlQkxZRmxPUlBWUUJwcGdueVJjMmxxenpTMHpkSnVRb1VMSU1SUDFMSElUU0o2T19PSGpMa0VaamtyMFNZU05uLUcyUG9jeWRDUE41VGZuTllUcVVxMkVPU0pRTW5jZVppdXFGU3VTRW9ZMXdBdEJBTGJFNWNldXR4SHZrczA?oc=5",
+   "alcance": "basado únicamente en titular/metadatos"
+  },
+  "GN-6144cbeff1": {
+   "titulo": "Clima en Panamá: Lluvias y tormentas en varios sectores del país durante este miércoles",
+   "medio": "tvn-2.com",
+   "fecha": "07/10/2026 06:24",
+   "tipo_fecha": "publicación",
+   "procedencia": "P1",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY1l3alZaQmpUTkdHV0JCM2tzYzBUVXE5M28xWlI4ZDNSdlZzM2VqTk9ENC11ckl1VDhVQmd1QjRTVnBuVnpnVzZ3dTNJcHFyTEMzVFdvR016QmE4RzNsV2NtLTlySzlyNWV1UlhVbVJUOEsyUHplbEliQ21KNThHSTk0TnlUWUtBeXljbUxkQ2hUa2E4ejhacFdQTTNFQ0h60gGmAUFVX3lxTFBBUlh6UXZBV0hkdHA1WG9rN1VKWDhJNDJSYVZzdGZWUHFJZl9DVTllSm9NaTFNUFAtT0lFb0dnblZ1amptUmlmem9jVWVacEdXd3JhV3h3bGtibHJIMTU3QlZKUjlOZWJXRDVtNjRrbjI2RTZ5MS15QXhJVXVaRS1CTmIyWXBCdDJkR25OdHB0SzVVY1c4RjhOcGdSMVBQdWdNUG1ITGc?oc=5",
+   "alcance": "basado únicamente en titular/metadatos"
+  },
+  "GN-92031a4f76": {
+   "titulo": "Clima en Panamá: Martes con lluvias y tormentas eléctricas en varias regiones durante la tarde",
+   "medio": "tvn-2.com",
+   "fecha": "06/10/2026 06:27",
+   "tipo_fecha": "publicación",
+   "procedencia": "P1",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMGlLRUMyQ3YwMl9JZkdjd1BqQngzb3RrSVpmbHh0SUdEZEtvRWJ6ckI0YXZWbkljZmRMOVV2MW50MUtyUTZWcll1eGF2bnE3Z1VVdjRfajV2a0JpNE1JUmtSSXp6T1hOSlJSZXM0aF93anY1U0JmQlY4Q0E0MWxBTlVxYTZpUW5mVWU1N3NSV2RGb1ZGaEo2U3U2YldLZUV2dnZEdkFTS0k0QWwxamtoZnh6XzlqYVU2MUlXQzM0MUs2dHZWb21oZmdHWXVDU2sx0gHWAUFVX3lxTE1naU1SUVVILXFSemVRVG1EbTRzdVFiS3JfYjcyUUpjQ1RLNkZaTTR3emhGckxPMGhvRTlxendIc3pPLWZaSEtycUhhOVZiVlpqVHZmdkZoUTA2YUJqMzJ4YWx6Tm40WTFyTnlBZzVZRUJRcTE1ZUlfZ1pxZzVkd1dBUlVJTThMLUh1c1RBVUZRWWplVUNEdHlvSDBpSDdqbk1keENINE5ac25ycWZTTVZkVEh1OEdNakcydUUzU0o0WU95VTc0UDNUbXFvc01NeU9lNjc3dkE?oc=5",
+   "alcance": "basado únicamente en titular/metadatos"
+  },
+  "GN-9fc2b0e77c": {
+   "titulo": "Clima en Panamá: pronóstico del tiempo para este miércoles 7 de octubre",
+   "medio": "laestrella.com.pa",
+   "fecha": "07/10/2026 08:13",
+   "tipo_fecha": "publicación",
+   "procedencia": "P3",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcFpCR2M2TXhCLVRqRWFuM2JDYWx6TjZZUnViTk5pSnJvdVJRaENVRjA3SVNVNFpJandUSXFfWHEyTWhtSjF3b3F4aHlhNUY0WUpFYTZrd2NKUkVjdnh1ZlJlRFVJZ3k1UEItUFJFS3loR2J2QlhLeEoxbERpZDVaai1MWlJORUd2U21oTFM1RUMtVGtEN0xUZ1RGWGZsMjNNYzlkSlZGdkRRZGY5SHFSVmN2UE50aHAwa1FiVmNRX0xwXzQ5Z3dlR29WLVBnbVRs0gHWAUFVX3lxTFAwVWE4YnpzemVsb0hzWXlrcXBXLVEtc3EzLUxkSWp6cGFLdjlzYUNXc3NiRkNxSlYzS05jSnd6UG41aUpzQld4cTloeUZjNTluNTNwUjF1NU5kQktnX2JlUk9KMDNDZkRUWHliekp1WENfcW16dEozMW9zT0E5UjZsNEdXc1pxZktQT2FIbjFxYmxBUS11VUtTOGlHRjdoSzRFZ3BPVWx1WVppY1lKb245WVd6bnZWejFFa2tkRTQySDBaVm96SjE3cWNMRFZDblhQSXhMVEE?oc=5",
+   "alcance": "basado únicamente en titular/metadatos"
+  },
+  "GN-f08c5710ff": {
+   "titulo": "Clima en Panamá: Lluvias y tormentas eléctricas se esperan este lunes en varias regiones del país",
+   "medio": "tvn-2.com",
+   "fecha": "05/10/2026 06:26",
+   "tipo_fecha": "publicación",
+   "procedencia": "P1",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3NMYXo4blVvdm1uT01RUUtlSVFYWjBFQ01CRkdoSUYtdEFnRU9oenFVck9BNElvUjhLbkdmWmQwdWV0Z2F5aUE2dmJRTE9SWlM0VUlNc2ZqVlAzd20wcXRIV051Z0tWam00bmYtSV9QdmJzRklFdC1BM2VRS0dSRDBpaUhTSk5JbGllV29jVmpMLUx0TjhfNFNzME5yamNDMXJtdFM3N2h5Y29JeUFOZjQ1MFdXbmJiWG9uY1Y1bmJJNWlrbERF0gHMAUFVX3lxTFBCM0llSEQ1NF9iLTRTSW9ndzQ5bnppUUlvYnpfT2RtcnZyUmFjZUtOeHIyb3JvaFkydjZxWlZ0S19GTW5RazlqTDI1a3RoX0hVZjZERVVxNkRkaGhpU0NHM0w2emtUUmRTRGJIUF92d2dKam1IQk5uWlU5NFNxSjlGa1Bhdm5BRGNIVWtxWHlGZjNxS25ocGRFaWJzMS1VcTMwcXhDSDlDM09BYmxuUFExQzZWQXYxemNMVVZPYW5jajFqX0RfSm1KUkotMA?oc=5",
+   "alcance": "basado únicamente en titular/metadatos"
+  },
+  "EV-57bd447f": {
+   "n_titulares": 5,
+   "n_procedencias": 3,
+   "estado_evidencia": "suficiente para el borrador",
+   "tema": "Eventos naturales",
+   "recirculacion": "Tema muy similar registrado antes (EV-388314e7, 09/09/2026): «Clima en Panamá: prevén lluvias y fuertes aguaceros este jueves». No presentarlo como hecho nuevo sin verificar qué cambió."
+  }
+ },
+ "sospechosas": [],
+ "abstencion": false,
+ "motivo_abstencion": "",
+ "enfoque_interes_publico": "Qué se sabe y qué falta confirmar sobre un tema de eventos naturales que afecta a Panamá.",
+ "preguntas_investigacion": [
+  "¿Qué fuente primaria u oficial confirma lo reportado en «Clima en Panamá hoy: dónde lloverá este martes 6 de octubre»?",
+  "¿Desde cuándo ocurre, a quién afecta y en qué lugar exactamente?",
+  "¿Existe una cifra oficial con período y metodología que respalde o contradiga lo publicado?"
+ ],
+ "verificaciones_pendientes": [
+  "Confirmar con fuente primaria: Clima en Panamá hoy: dónde lloverá este martes 6 de octubre",
+  "Confirmar con fuente primaria: Clima en Panamá: Lluvias y tormentas en varios sectores del país durante este miércoles",
+  "Confirmar con fuente primaria: Clima en Panamá: pronóstico del tiempo para este miércoles 7 de octubre"
+ ],
+ "rechazadas": [],
+ "titulo_propuesto": [
+  {
+   "texto": "Clima en Panamá hoy: dónde lloverá este martes 6 de octubre",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-08b5a41c89",
+     "campo": "titulo"
+    }
+   ]
+  }
+ ],
+ "brief": [
+  {
+   "texto": "Según telemetro.com (06/10/2026 07:28), «Clima en Panamá hoy: dónde lloverá este martes 6 de octubre».",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-08b5a41c89",
+     "campo": "titulo"
+    },
+    {
+     "id": "GN-08b5a41c89",
+     "campo": "medio"
+    },
+    {
+     "id": "GN-08b5a41c89",
+     "campo": "fecha"
+    }
+   ]
+  },
+  {
+   "texto": "Según tvn-2.com (07/10/2026 06:24), «Clima en Panamá: Lluvias y tormentas en varios sectores del país durante este miércoles».",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-6144cbeff1",
+     "campo": "titulo"
+    },
+    {
+     "id": "GN-6144cbeff1",
+     "campo": "medio"
+    },
+    {
+     "id": "GN-6144cbeff1",
+     "campo": "fecha"
+    }
+   ]
+  },
+  {
+   "texto": "Según laestrella.com.pa (07/10/2026 08:13), «Clima en Panamá: pronóstico del tiempo para este miércoles 7 de octubre».",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-9fc2b0e77c",
+     "campo": "titulo"
+    },
+    {
+     "id": "GN-9fc2b0e77c",
+     "campo": "medio"
+    },
+    {
+     "id": "GN-9fc2b0e77c",
+     "campo": "fecha"
+    }
+   ]
+  },
+  {
+   "texto": "Hasta el corte, el tema reúne 5 titulares de 3 procedencia(s) independiente(s); la repetición no equivale a confirmación.",
+   "tipo": "hecho",
+   "citas": [
+    {
+     "id": "EV-57bd447f",
+     "campo": "n_titulares"
+    },
+    {
+     "id": "EV-57bd447f",
+     "campo": "n_procedencias"
+    }
+   ]
+  },
+  {
+   "texto": "El tema ya circulaba antes: no debe presentarse como un hecho nuevo.",
+   "tipo": "hecho",
+   "citas": [
+    {
+     "id": "EV-57bd447f",
+     "campo": "recirculacion"
+    }
+   ]
+  },
+  {
+   "texto": "Falta confirmar los detalles con una fuente primaria antes de afirmarlos.",
+   "tipo": "hipotesis",
+   "citas": []
+  }
+ ],
+ "guion": [
+  {
+   "texto": "Esto es lo que se sabe hasta ahora sobre un tema de eventos naturales que sigue la mesa de TVN.",
+   "tipo": "inferencia",
+   "citas": []
+  },
+  {
+   "texto": "Según telemetro.com, clima en Panamá hoy: dónde lloverá este martes 6 de octubre.",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-08b5a41c89",
+     "campo": "titulo"
+    },
+    {
+     "id": "GN-08b5a41c89",
+     "campo": "medio"
+    }
+   ]
+  },
+  {
+   "texto": "tvn-2.com también reporta: «Clima en Panamá: Lluvias y tormentas en varios sectores del país durante este miércoles».",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-6144cbeff1",
+     "campo": "titulo"
+    },
+    {
+     "id": "GN-6144cbeff1",
+     "campo": "medio"
+    }
+   ]
+  },
+  {
+   "texto": "laestrella.com.pa también reporta: «Clima en Panamá: pronóstico del tiempo para este miércoles 7 de octubre».",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-9fc2b0e77c",
+     "campo": "titulo"
+    },
+    {
+     "id": "GN-9fc2b0e77c",
+     "campo": "medio"
+    }
+   ]
+  },
+  {
+   "texto": "Por ahora, el tema suma 5 titulares de 3 procedencia(s) independiente(s); que varios medios lo repitan no significa que esté confirmado.",
+   "tipo": "hecho",
+   "citas": [
+    {
+     "id": "EV-57bd447f",
+     "campo": "n_titulares"
+    },
+    {
+     "id": "EV-57bd447f",
+     "campo": "n_procedencias"
+    }
+   ]
+  },
+  {
+   "texto": "Lo que falta confirmar es qué dice la fuente oficial, desde cuándo ocurre y a quién afecta exactamente.",
+   "tipo": "hipotesis",
+   "citas": []
+  },
+  {
+   "texto": "En TVN confirmaremos los datos con las fuentes oficiales antes de darlos por hechos, y ampliaremos la información.",
+   "tipo": "inferencia",
+   "citas": []
+  }
+ ],
+ "copy": [
+  {
+   "texto": "Según telemetro.com: Clima en Panamá hoy: dónde lloverá este martes 6 de octubre.",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-08b5a41c89",
+     "campo": "titulo"
+    },
+    {
+     "id": "GN-08b5a41c89",
+     "campo": "medio"
+    }
+   ]
+  },
+  {
+   "texto": "tvn-2.com también lo reporta: «Clima en Panamá: Lluvias y tormentas en varios sectores del país durante este miércoles».",
+   "tipo": "declaracion",
+   "citas": [
+    {
+     "id": "GN-6144cbeff1",
+     "campo": "titulo"
+    },
+    {
+     "id": "GN-6144cbeff1",
+     "campo": "medio"
+    }
+   ]
+  },
+  {
+   "texto": "Hasta ahora, 5 titulares provienen de 3 fuente(s) real(es) distinta(s), así que todavía no lo damos por confirmado.",
+   "tipo": "hecho",
+   "citas": [
+    {
+     "id": "EV-57bd447f",
+     "campo": "n_titulares"
+    },
+    {
+     "id": "EV-57bd447f",
+     "campo": "n_procedencias"
+    }
+   ]
+  },
+  {
+   "texto": "En TVN seguimos verificando con fuentes oficiales y te contaremos qué se confirma y qué no.",
+   "tipo": "inferencia",
+   "citas": []
+  }
+ ],
+ "metricas": {
+  "palabras_brief": 90,
+  "palabras_copy": 65,
+  "segundos_guion": 49,
+  "afirmaciones_factuales": 13,
+  "con_cita": 13,
+  "rechazadas_por_verificador": 0
+ }
+}

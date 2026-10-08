@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+/* Sistema visual RASTRO: navy de sala de noticias + acento «señal» (teal).
+   Evidencia = semáforo (verde/ámbar/rojo). Prioridad = escala azul neutra: nunca se confunde con la evidencia. */
+@theme {
+  --color-tinta: #0a1628;
+  --color-tinta-2: #12223b;
+  --color-tinta-3: #1c3150;
+  --color-senal: #14b8a6;
+  --color-senal-2: #0d9488;
+  --color-papel: #f5f7fb;
+  --color-borde: #e3e8f0;
+  --color-texto: #1d2939;
+  --color-suave: #667085;
+
+  --color-ev-ok: #15803d;
+  --color-ev-ok-bg: #e8f6ee;
+  --color-ev-mid: #b45309;
+  --color-ev-mid-bg: #fdf3e1;
+  --color-ev-bad: #b91c1c;
+  --color-ev-bad-bg: #fbeaea;
+
+  --color-c-r: #2563eb;
+  --color-c-i: #7c3aed;
+  --color-c-u: #ea580c;
+  --color-c-n: #0891b2;
+  --color-c-e: #65a30d;
+
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+}
+
+html, body { background: var(--color-papel); color: var(--color-texto); }
+body { font-family: var(--font-sans); }
+
+@utility tarjeta { @apply rounded-2xl border border-borde bg-white shadow-[0_1px_2px_rgba(16,24,40,.04)]; }
+@utility etiqueta-sec { @apply text-[11px] font-semibold uppercase tracking-[.08em] text-suave; }
+@utility boton { @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition disabled:cursor-not-allowed disabled:opacity-50; }
+@utility boton-primario { @apply boton bg-tinta text-white hover:bg-tinta-3; }
+@utility boton-senal { @apply boton bg-senal text-white hover:bg-senal-2; }
+@utility boton-borde { @apply boton border border-borde bg-white text-texto hover:bg-papel; }
+@utility entrada { @apply w-full rounded-xl border border-borde bg-white px-3.5 py-2.5 text-sm outline-none focus:border-senal focus:ring-4 focus:ring-senal/15; }
+
+@keyframes barrido { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+.radar-barrido { animation: barrido 6s linear infinite; transform-origin: 50% 50%; }
+@keyframes pulso { 0%,100% { opacity: .35; transform: scale(1); } 50% { opacity: 1; transform: scale(1.25); } }
+.radar-punto { animation: pulso 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+@keyframes aparecer { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.aparecer { animation: aparecer .35s ease-out both; }
+
+/* Impresión: reportes y paquetes como PDF limpio */
+@media print {
+  .no-imprimir { display: none !important; }
+  body, html { background: #fff !important; }
+  .tarjeta { box-shadow: none !important; break-inside: avoid; }
+  main { padding: 0 !important; margin: 0 !important; }
+}

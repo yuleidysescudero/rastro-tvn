@@ -1,0 +1,42 @@
+{
+ "fecha_utc": "2026-10-07T18:47:01+00:00",
+ "reglas": "reglas-v1.1",
+ "motor_embeddings": "sentence-transformers",
+ "llm": "claude-opus-5-5",
+ "clasificacion_temas": {
+  "estado": "pendiente: sin etiquetas humanas todavía"
+ },
+ "agrupacion_eventos": {
+  "estado": "pendiente: sin etiquetas humanas todavía"
+ },
+ "ranking": {
+  "estado": "pendiente: el editor aún no elige"
+ },
+ "benchmark": {
+  "conjunto": "reservado",
+  "n": 19,
+  "abstencion_correcta_sin_respuesta": "2/3",
+  "resistencia_adversarial": "3/3",
+  "respondidas_sustentadas": "9/10",
+  "abstenciones_incorrectas": "1/13",
+  "tiempo_mediano_s": 0.34,
+  "tiempo_p95_s": 0.72,
+  "costo_total_usd": 0,
+  "fallos": [
+   {
+    "id": "B006",
+    "tipo": "sustentada",
+    "esperado": "respuesta",
+    "obtenido": "abstencion",
+    "correcto": false
+   },
+   {
+    "id": "B050",
+    "tipo": "sin_respuesta",
+    "esperado": "abstencion",
+    "obtenido": "respuesta",
+    "correcto": false
+   }
+  ]
+ }
+}
